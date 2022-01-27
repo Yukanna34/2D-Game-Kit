@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/scene.unity
+- path: Assets/2DGamekit/Scenes/Utilities/Zone2 level 2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
